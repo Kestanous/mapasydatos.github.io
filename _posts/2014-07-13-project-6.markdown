@@ -1,0 +1,14 @@
+---
+title: SIMAS
+subtitle: medio ambiente
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: simas.png
+thumbnail: simas-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: CVC
+category: Desarrollo e Implmentación
+description: SIMAS integra la información estadística y geográfica indispensable para calcular la oferta de agua disponible en las cuencas hidrográficas y la demanda en las zonas de consumo, para posteriomente elaborar balances de demanda/disponibilidad, asignar volúmenes de agua a los usuarios y evaluar constantemente la calidad del agua. 
+---

@@ -1,0 +1,15 @@
+---
+title: MAPAS LATINOS
+subtitle: Motor de Geocodifación
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: ml.png
+thumbnail: ml-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Metro Cuadrado, Galería Inmobiliaria y otros
+category: Aplicación de georeferenciación en la nube
+description: Mapas Latinos es un servicio en la nube para geocodificación de direcciones y presentación de mapas, diseñado específicamente para procesar debidamente la nomenclatura de las diferentes ciudades de Colombia y América Latina.
+
+---

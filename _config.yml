@@ -1,0 +1,57 @@
+url: 
+baseurl: /mapasydatos.github.io
+
+# Site settings
+title: Mapas y Datos
+email: gabriel@mapasydatos.com
+description: "Mapas y Datos es una empresa de desarrollo de aplicaciones en la nube que se pueden acceder desde cualquier lugar y dispositivo."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 4F94B4
+  secondary: 8b8f91
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Mapas
+  pic: 1
+  position: MapBox
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Plataforma de Desarrollo
+  pic: 2
+  position: Meteor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Gráficas
+  pic: 3
+  position: D3
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/mapasydatos
+
+# Build settings
+markdown: kramdown
+permalink: pretty

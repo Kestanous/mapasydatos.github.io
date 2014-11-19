@@ -1,0 +1,15 @@
+---
+title: VIP-CLOUD
+subtitle: Agricultura - Flores
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: vip.png
+thumbnail: vip-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Syngenta
+category: Desarrollo y Operación
+description: VIP-Cloud es un proyecto conjunto entre Syngenta y Mapas y Datos, con el cual se contribuye al enfoque de manejo integral de cultivos de flores de Syngenta. En equipo con los floricultores, se ha desarrollado esta tecnología que integra información de producción, calidad y sanidad vegetal. Hoy en día VIP-Cloud contribuye a la optimización de los diferentes procesos de control y protección de los cultivos de flores en Colombia y Ecuador.
+
+---

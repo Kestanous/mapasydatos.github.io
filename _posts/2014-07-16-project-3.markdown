@@ -1,0 +1,15 @@
+---
+title: FINCARAIZ.COM
+subtitle: Finca Raíz
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: galeria.png
+thumbnail: galeria-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: La Galería Inmobiliaria
+category: Desarrollo y Operación
+description: Mapas y Datos ha desarrollado y continúa manejando la operación técnica del sistema de información de inmuebles y proyectos de Galería Inmobiliaria. Este sistema proporciona a sus usuarios información detallada de la actividad inmobiliaria en Colombia.
+
+---

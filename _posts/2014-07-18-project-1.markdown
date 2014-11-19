@@ -1,0 +1,15 @@
+---
+title: SKAN
+subtitle: Agricultura - Banano
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: skan.png
+thumbnail: skan-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Syngenta
+category: Desarrollo y Operación
+description: SKAN es un proyecto conjunto entre Syngenta y Mapas y Datos, con el cual se contribuye al enfoque de manejo integral de cultivos de banano que ofrece Syngenta. En equipo con los productores, se ha desarrollado esta tecnología que integra información de producción, calidad y sanidad vegetal y hoy en día contribuye a la optimización de los diferentes procesos de control y protección de los cultivos de banano en Costa Rica, Colombia, Ecuador y Venezuela.
+
+---

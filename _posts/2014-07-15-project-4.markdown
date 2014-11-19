@@ -1,0 +1,14 @@
+---
+title: SIRE
+subtitle: Emergencias
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: sire.png
+thumbnail: sire-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Ingeominas y FOPAE
+category: Desarrollo
+description: El SIRE fue desarrollado para INGEOMINAS y la Dirección de Atención y Prevención de Emergencias de Bogotá con una amplia funcionalidad relacionada con el manejo de amenazas y emergencias. El sistema incluye entre otros, el registro de variables asociadas a fenómenos naturales como deslizamientos e inundaciones con análisis histórico y geográfico y el registro y control de los planes de contingencia para eventos que implican aglomeraciones de público en la ciudad. 
+---

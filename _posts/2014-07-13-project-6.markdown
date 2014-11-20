@@ -1,6 +1,6 @@
 ---
 title: SIMAS
-subtitle: medio ambiente
+subtitle: Medio Ambiente
 layout: default
 modal-id: 6
 date: 2014-07-15

@@ -312,7 +312,8 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 .intro-heading span {
-	background-color: rgba(0, 0, 0, 0.4);
+	background-color: rgba(0, 0, 0, 0.2);
+	display: inline-block;
 }
 
 .intro-lead-in span {

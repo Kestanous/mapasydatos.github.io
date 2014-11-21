@@ -1,6 +1,6 @@
 ---
 title: MAPAS LATINOS
-subtitle: Motor de Geocodifación
+subtitle: Motor de Geocodificación
 layout: default
 modal-id: 5
 date: 2014-07-14

@@ -9,6 +9,6 @@ thumbnail: simas-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: CVC
-category: Desarrollo e Implmentación
+category: Desarrollo e Implementación
 description: SIMAS integra la información estadística y geográfica indispensable para calcular la oferta de agua disponible en las cuencas hidrográficas y la demanda en las zonas de consumo, para posteriomente elaborar balances de demanda/disponibilidad, asignar volúmenes de agua a los usuarios y evaluar constantemente la calidad del agua. 
 ---
